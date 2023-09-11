@@ -1,0 +1,8 @@
+body{
+    background-color: lightblue;
+    Color: black;
+}
+.card{
+    margin: 5px;
+    background: rgba(0.5);
+}
